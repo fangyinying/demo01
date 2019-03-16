@@ -1,0 +1,31 @@
+.myinput{
+    display: inline-block;
+    width: 80%;
+}
+.myinput span{
+    margin-left: 10px;
+}
+.myinput input{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+.mydiv{
+     text-align: left;
+    position: relative;
+    margin-top: 20px;
+ }
+.mybutton{
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    width: 50px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 4px;
+    background-color:snow;
+    text-align: center;
+    color: red;
+    font-size: 14px;
+
+}
